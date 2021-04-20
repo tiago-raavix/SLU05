@@ -1,0 +1,5 @@
+-bread
+-Eggs
+-Onions
+-Cheese
+-Bacon
